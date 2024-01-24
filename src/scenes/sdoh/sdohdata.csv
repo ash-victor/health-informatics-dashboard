@@ -1,0 +1,83 @@
+Numerator,Denominator,sub_category,source_id,FLO_MEAS_DISPLAY_NAME
+479,4598517,ALCOHOL,1570400748,Audit-C Score
+256958,4598517,ALCOHOL,1572879836,Q1: How often do you have a drink containing alcohol?
+72339,4598517,ALCOHOL,1572879837,Q2: How many drinks containing alcohol do you have on a typical day when you are drinking?
+53516,4598517,ALCOHOL,1572879838,Q3: How often do you have six or more drinks on one occasion?
+289096,4598517,ALCOHOL,3043654101,How often do you have a drink containing alcohol?
+273180,4598517,ALCOHOL,3043654201,How often do you have 5 or more drinks on one occasion? 
+239414,4598517,ALCOHOL,3043655301,AUDIT - C Score (Part 1)
+244711,4598517,ALCOHOL,3043655501,How many drinks containing alcohol do you have on a typical day when you are drinking?
+410635,4598517,FINANCIAL,1572879810,"How hard is it for you to pay for the very basics like food, housing, medical care, and heating?"
+496632,4598517,FOOD,1572879820,"Within the past 12 months, you worried that your food would run out before you got the money to buy more."
+495730,4598517,FOOD,1572879821,"Within the past 12 months, the food you bought just didn't last and you didn't have money to get more."
+29,4598517,GAD-7,1570400213,"Feeling nervous, anxious, or on edge"
+29,4598517,GAD-7,1570400214,Not being able to stop or control worrying
+29,4598517,GAD-7,1570400215,Worrying too much about different things
+29,4598517,GAD-7,1570400216,Trouble relaxing
+29,4598517,GAD-7,1570400217,Being so restless that it is hard to sit still
+29,4598517,GAD-7,1570400218,Becoming easily annoyed or irritable
+29,4598517,GAD-7,1570400219,Feeling afraid as if something awful might happen
+29,4598517,GAD-7,1570400220,GAD-7 Total Score
+157839,4598517,GAD-7,2100101801,"Feeling nervous, anxious or on edge"
+157687,4598517,GAD-7,2100101802,Not being able to stop or control worrying
+155757,4598517,GAD-7,2100101803,Worrying too much about different things
+155725,4598517,GAD-7,2100101804,Trouble relaxing
+155703,4598517,GAD-7,2100101805,Being so restless that it is hard to sit still
+155724,4598517,GAD-7,2100101806,Becoming easily annoyed or irritable
+155353,4598517,GAD-7,2100101807,Feeling afraid as if something awful might happen
+158036,4598517,GAD-7,2100101812,GAD-7 Total Score
+0,4598517,HEALTH_LITERACY,1570630335,NULL
+10,4598517,HOUSING,1570008805,"In the last 12 months, was there a time when you were not able to pay the mortgage or rent on time?"
+8,4598517,HOUSING,1570008806,"In the last 12 months, how many places have you lived?"
+10,4598517,HOUSING,1570008807,"In the last 12 months, was there a time when you did not have a steady place to sleep or slept in a shelter (including now)?"
+253024,4598517,IPV,1572879812,"Within the last year, have you been humiliated or emotionally abused in other ways by your partner or ex-partner?"
+253430,4598517,IPV,1572879813,"Within the last year, have you been afraid of your partner or ex-partner?"
+252393,4598517,IPV,1572879814,"Within the last year, have you been raped or forced to have any kind of sexual activity by your partner or ex-partner?"
+252921,4598517,IPV,1572879815,"Within the last year, have you been kicked, hit, slapped, or otherwise physically hurt by your partner or ex-partner?"
+5661,4598517,PHQ-2,1570000014,Little interest or pleasure in doing things
+5659,4598517,PHQ-2,1570000015,"Feeling down, depressed, or hopeless"
+5643,4598517,PHQ-2,1570000016,Patient Health Questionnaire-2 Score
+772486,4598517,PHQ-2,3400003903,Little interest or pleasure in doing things
+772058,4598517,PHQ-2,3400003904,"Feeling down, depressed, or hopeless"
+772169,4598517,PHQ-2,3400003921,PHQ-2 Total Score 
+5075,4598517,PHQ-9,1570000018,"Trouble falling or staying asleep, or sleeping too much"
+5040,4598517,PHQ-9,1570000019,Feeling tired or having little energy
+5041,4598517,PHQ-9,1570000020,Poor appetite or overeating
+5031,4598517,PHQ-9,1570000021,Feeling bad about yourself - or that you are a failure or have let yourself or your family down
+5036,4598517,PHQ-9,1570000022,"Trouble concentrating on things, such as reading the newspaper or watching television"
+5032,4598517,PHQ-9,1570000023,Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual.
+5037,4598517,PHQ-9,1570000024,Thoughts that you would be better off dead or hurting yourself in some way
+4982,4598517,PHQ-9,1570000025,Patient Health Questionnaire-9 Score
+399713,4598517,PHQ-9,2100100050,Little interest or pleasure in doing things
+399153,4598517,PHQ-9,2100100051,"Feeling down, depressed, or hopeless"
+396950,4598517,PHQ-9,2100100052,"Trouble falling or staying asleep, or sleeping too much"
+396784,4598517,PHQ-9,2100100053,Feeling tired or having little energy
+396167,4598517,PHQ-9,2100100054,Poor appetite or overeating
+395973,4598517,PHQ-9,2100100055,Feeling bad about yourself - or that you are a failure or have let yourself or your family down
+395911,4598517,PHQ-9,2100100056,"Trouble concentrating on things, such as reading the newspaper or watching television"
+396088,4598517,PHQ-9,2100100057,Moving or speaking so slowly that other people could have noticed. Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual
+395096,4598517,PHQ-9,2100100058,"Thoughts that you would be better off dead, or of hurting yourself in some way"
+399895,4598517,PHQ-9,2100100060,PHQ-9 TOTAL SCORE
+196895,4598517,PHYSICAL,1572879832,"On average, how many days per week do you engage in moderate to strenuous exercise (like a brisk walk)?"
+190589,4598517,PHYSICAL,1572879833,"On average, how many minutes do you engage in exercise at this level?"
+27705,4598517,POSTPARTUM,1570500000,I have been able to laugh and see the funny side of things.
+27701,4598517,POSTPARTUM,1570500001,I have looked forward with enjoyment to things.
+27696,4598517,POSTPARTUM,1570500002,I have blamed myself unnecessarily when things went wrong.
+27701,4598517,POSTPARTUM,1570500003,I have been anxious or worried for no good reason.
+27700,4598517,POSTPARTUM,1570500004,I have felt scared or panicky for no good reason.
+27696,4598517,POSTPARTUM,1570500005,Things have been getting on top of me.
+27699,4598517,POSTPARTUM,1570500006,I have been so unhappy that I have had difficulty sleeping.
+27697,4598517,POSTPARTUM,1570500007,I have felt sad or miserable.
+27698,4598517,POSTPARTUM,1570500008,I have been so unhappy that I have been crying.
+27692,4598517,POSTPARTUM,1570500009,The thought of harming myself has occurred to me.
+27647,4598517,POSTPARTUM,1570500010,Edinburgh Postnatal Depression Scale Total
+147873,4598517,SOCIAL,1572879825,"In a typical week, how many times do you talk on the phone with family, friends, or neighbors?"
+145145,4598517,SOCIAL,1572879826,How often do you get together with friends or relatives?
+141057,4598517,SOCIAL,1572879827,How often do you attend church or religious services?
+141580,4598517,SOCIAL,1572879828,"Do you belong to any clubs or organizations such as church groups, unions, fraternal or athletic groups, or school groups?"
+141142,4598517,SOCIAL,1572879829,How often do you attend meetings of the clubs or organizations you belong to?
+149517,4598517,SOCIAL,1572879830,"Are you married, widowed, divorced, separated, never married, or living with a partner?"
+169731,4598517,STRESS,1572879823,"Do you feel stress - tense, restless, nervous, or anxious, or unable to sleep at night because your mind is troubled all the time - these days?"
+479178,4598517,TRANSPORTATION,1572879817,"In the past 12 months, has lack of transportation kept you from medical appointments or from getting medications?"
+478551,4598517,TRANSPORTATION,1572879818,"In the past 12 months, has lack of transportation kept you from meetings, work, or from getting things needed for daily living?"
+0,4598517,UTILITIES,1570000075,NULL
