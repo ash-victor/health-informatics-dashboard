@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/health-informatics-dashboard/static/css/main.b1a46958.css",
-    "main.js": "/health-informatics-dashboard/static/js/main.65ebba40.js",
+    "main.js": "/health-informatics-dashboard/static/js/main.1760c7c8.js",
     "static/media/omop_tables.png": "/health-informatics-dashboard/static/media/omop_tables.5b5835ab1bd3afaf925c.png",
     "static/media/PCORnetTable1_July2017_Public.pdf": "/health-informatics-dashboard/static/media/PCORnetTable1_July2017_Public.06684f3a4db162e09fcc.pdf",
     "static/media/N3C_collab.pdf": "/health-informatics-dashboard/static/media/N3C_collab.978dc8dc959a311ccca5.pdf",
@@ -19,10 +19,10 @@
     "static/media/ADI_STATE_RANK_COUNTS.csv": "/health-informatics-dashboard/static/media/ADI_STATE_RANK_COUNTS.2b9abc3dff2611ead19f.csv",
     "static/media/RUCA.csv": "/health-informatics-dashboard/static/media/RUCA.3be5c3b109e667bfcd6a.csv",
     "main.b1a46958.css.map": "/health-informatics-dashboard/static/css/main.b1a46958.css.map",
-    "main.65ebba40.js.map": "/health-informatics-dashboard/static/js/main.65ebba40.js.map"
+    "main.1760c7c8.js.map": "/health-informatics-dashboard/static/js/main.1760c7c8.js.map"
   },
   "entrypoints": [
     "static/css/main.b1a46958.css",
-    "static/js/main.65ebba40.js"
+    "static/js/main.1760c7c8.js"
   ]
 }
