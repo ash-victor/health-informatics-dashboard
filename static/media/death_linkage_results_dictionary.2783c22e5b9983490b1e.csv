@@ -1,0 +1,57 @@
+Field,Dtype,Description
+pat_mrn_id,string,patient medical record number
+pat_id,string,patient ID
+death_date,string,date of death from state record
+underlying_cause_of_death,string,primary underlying cause of death from state record
+cod1,string,cause of death 1 from state record
+cod2,string,cause of death 2 from state record
+cod3,string,cause of death 3 from state record
+cod4,string,cause of death 4 from state record
+cod5,string,cause of death 5 from state record
+cod6,string,cause of death 6 from state record
+cod7,string,cause of death 7 from state record
+cod8,string,cause of death 8 from state record
+cod9,string,cause of death 9 from state record
+cod10,string,cause of death 10 from state record
+cod11,string,cause of death 11 from state record
+cod12,string,cause of death 12 from state record
+cod13,string,cause of death 13 from state record
+cod14,string,cause of death 14 from state record
+cod15,string,cause of death 15 from state record
+cod16,string,cause of death 16 from state record
+cod17,string,cause of death 17 from state record
+cod18,string,cause of death 18 from state record
+cod19,string,cause of death 19 from state record
+cod20,string,cause of death 20 from state record
+epic_lname,string,last name from Clarity record
+lname,string,last name from state record
+lname_dist,integer,Levenshtein distance between last name values
+epic_fname,string,first name from Clarity record
+fname,string,first name from state record
+fname_dist,integer,Levenshtein distance between first name values
+epic_mname,string,middle initial from Clarity record
+mname,string,middle initial from state record
+epic_sex,string,sex from Clarity record
+sex,string,sex from state record
+epic_dob,date,date of birth from Clarity record
+dob,string,date of birth from state record
+dob_dist,integer,Levenshtein distance between date of birth values
+epic_ssn,string,social security number from Clarity record
+ssn,string,social security number from state record
+ssn_dist,integer,Levenshtein distance between social security number values
+epic_zip,string,ZIP code from Clarity record
+zipcode,string,ZIP code from state record
+zip_dist,integer,Levenshtein distance between ZIP code values
+epic_house_number,string,house number from Clarity record
+house_number,string,house number from state record
+house_dist,integer,Levenshtein distance between house number values
+epic_street,string,first word of street name from Clarity record
+street,string,first word of street name from state record
+lname_score,integer,"match score for last names (possible range: -5, 10)"
+fname_score,integer,"match score for first names (possible range: -5, 10)"
+mname_score,integer,"match score for middle initials (possible range: -5, 5)"
+dob_score,integer,"match score for dates of birth (possible range: -5, 15)"
+ssn_score,integer,"match score for social security numbers (possible range: -5, 25)"
+zip_score,integer,"match score for ZIP codes (possible range: 0, 5)"
+house_score,integer,"match score for house numbers (possible range: 0, 10)"
+wms,integer,"total weighted match score (possible range: -25, 80)"
